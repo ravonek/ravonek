@@ -31,7 +31,7 @@
 
 ## ⚡ About me
 
-- 🎓 CS / Engineering student, working on real-world projects + uni labs  
+- 🎓 CS / Robotics Engineering student, working on real-world projects + uni labs  
 - 🤖 Interested in **Robotics**, **Computer Vision**, **ML systems**, **automation**
 - 🧠 I like turning messy data into clean pipelines and useful dashboards
 - 📍 Kazakhstan / Germany 
