@@ -3,7 +3,7 @@
      User: ravonek
      ========================= -->
 
-<h1 align="center">Adilkhan (Addie) 👋</h1>
+<h1 align="center">Adilkhan (Addie) </h1>
 
 <p align="center">
   <b>AI / ML • Data • Robotics • Automation</b><br/>
@@ -34,9 +34,9 @@
 - 🎓 CS / Engineering student, working on real-world projects + uni labs  
 - 🤖 Interested in **Robotics**, **Computer Vision**, **ML systems**, **automation**
 - 🧠 I like turning messy data into clean pipelines and useful dashboards
-- 📍 Kazakhstan / Germany (open to remote)
+- 📍 Kazakhstan / Germany 
 
-## 🧰 Tech stack (what I actually use)
+## 🧰 Tech stack 
 
 ### Languages
 - **Python** (automation, APIs, ML, scripts)
