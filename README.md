@@ -112,20 +112,6 @@
 
 ---
 
-## 📈 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ravonek&show_icons=true&hide_title=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravonek&layout=compact&hide_title=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravonek" />
-</p>
-
----
-
-
 ## ✉️ Contact
 
 - LinkedIn: https://www.linkedin.com/in/adilkhan-kaldybekov-3a3215307/
