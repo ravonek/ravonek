@@ -36,31 +36,61 @@
 - 🧠 I like turning messy data into clean pipelines and useful dashboards
 - 📍 Kazakhstan / Germany (open to remote)
 
+## 🧰 Tech stack (what I actually use)
+
+### Languages
+- **Python** (automation, APIs, ML, scripts)
+- **C++** (algorithms, uni projects)
+- **JavaScript / TypeScript** (frontend, tooling)
+- **SQL** (data queries, analytics)
+- **Markdown** (docs), **JSON/YAML** (configs)
+
+### ML / Data Science
+- **pandas**, **NumPy**
+- **scikit-learn**: Pipelines, ColumnTransformer, GridSearchCV
+- **Preprocessing**: StandardScaler, OneHotEncoder
+- **Models**: CatBoost, LightGBM, ensembles (Voting/Stacking/Blending)
+- **NLP**: TF-IDF / CountVectorizer / TfidfVectorizer, basic **Transformers** (HuggingFace)
+- **Unsupervised**: KMeans, DBSCAN, PCA, t-SNE
+- **Model reuse**: serialization & loading models
+
+### Backend / Automation
+- **FastAPI**, **Uvicorn**
+- REST APIs, background scripts, integrations
+- **dotenv** (.env configs)
+- **WebDAV / Nextcloud** (file uploads, folder structures)
+- **ETL-ish scripts**: exporting tasks, attachments, chat logs
+- **Multi-threading** (parallel downloads/uploads)
+- **HTTP tooling**: requests / httpx (depending on task)
+
+### Bots / Messaging
+- **Telegram Bot API** (python-telegram-bot)
+- LLM integration patterns (routing, context, safe fallbacks)
+
+### Frontend
+- **React + Vite**
+- HTML/CSS, basic UI for dashboards / internal screens
+
+### DevOps / Tooling
+- **Docker** (containerized runs, reproducible setup)
+- Git/GitHub, basic CI mindset
+- Linux/macOS dev, VS Code
+
 ---
 
-## 🧰 Tech stack
+## 🤖 Robotics stack
 
-**Languages**
-- Python, C++, JavaScript/TypeScript, SQL
+### Hardware / Control
+- Quadruped / multi-DOF concepts (gaits, calibration, offsets)
+- **Raspberry Pi Pico + MicroPython**
+- Servo control, mapping joints, tuning neutral positions
 
-**ML / Data**
-- scikit-learn, pandas, NumPy  
-- TF-IDF / NLP basics, Transformers (basic)  
-- CatBoost, LightGBM  
-- EDA, feature engineering, model evaluation
+### Modeling / Simulation
+- **URDF** workflow (robot description, joints, links, limits)
+- **CAD / 3D assets** (export/import mindset)
+- **Isaac Sim** (simulation, physics, friction/colliders)
+- **Jacobian / kinematics** basics (forward/inverse ideas, singularities)
 
-**Backend**
-- FastAPI, REST APIs  
-- Docker, .env configs
-
-**Frontend**
-- React, Vite, HTML/CSS
-
-**Tools**
-- Git/GitHub, Linux, VS Code  
-- CI/CD basics, reproducible projects
-
----
 
 ## 🧩 What I build
 
